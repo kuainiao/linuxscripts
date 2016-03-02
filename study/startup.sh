@@ -9,5 +9,8 @@ chromium-browser &
 #thunderbird
 thunderbird &
 
+#WizNote
+WizNote &
+
 exit 0
 
